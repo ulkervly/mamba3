@@ -1,0 +1,38 @@
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\appsettings.json
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Mamba 3.exe
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Mamba 3.deps.json
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Mamba 3.runtimeconfig.json
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Mamba 3.dll
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Mamba 3.pdb
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Mamba.Business.dll
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Mamba.Core.dll
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Mamba.Data.dll
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Mamba.Business.pdb
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Mamba.Core.pdb
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\bin\Debug\net6.0\Mamba.Data.pdb
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\Mamba 3.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\Mamba 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\Mamba 3.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\Mamba 3.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\Mamba 3.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\Mamba 3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\Mamba 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\staticwebassets\msbuild.Mamba 3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\staticwebassets\msbuild.build.Mamba 3.props
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Mamba 3.props
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Mamba 3.props
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\scopedcss\bundle\Mamba 3.styles.css
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\Mamba 3.csproj.CopyComplete
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\Mamba 3.dll
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\refint\Mamba 3.dll
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\Mamba 3.pdb
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\Mamba 3.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\Exam\DateTime\Practice\Mamba 3\Mamba 3\obj\Debug\net6.0\ref\Mamba 3.dll
